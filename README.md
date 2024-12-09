@@ -1,4 +1,5 @@
-Kubernetes-Based Deployment for Analytics Pvt Ltd
+# Kubernetes-Based Deployment 
+Kubernetes-Based Deployment 
 This project demonstrates how to deploy containerized applications on Kubernetes with 2 replicas for high availability. The infrastructure is provisioned using Terraform on AWS, and the app is containerized using Docker.
 
 Project Overview
